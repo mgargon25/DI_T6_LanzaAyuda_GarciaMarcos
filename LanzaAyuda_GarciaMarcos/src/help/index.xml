@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+ <!DOCTYPE index PUBLIC "-//Sun Microsystems Inc.//DTD JavaHelp Index Version 2.0//EN" 
+"http://java.sun.com/products/javahelp/index_2_0.dtd">
+
+<index version="2.0">
+    <indexitem text="Distribuir la ayuda">
+        <indexitem text="Datos de los clientes" target="topicSalon"/>
+        <indexitem text="Datos de las reservas" target="topicSalones"/>
+    </indexitem> 
+</index>
